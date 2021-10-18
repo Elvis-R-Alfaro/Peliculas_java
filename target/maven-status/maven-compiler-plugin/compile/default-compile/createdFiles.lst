@@ -1,0 +1,6 @@
+com\rodesno\peliculas\Aplication.class
+com\rodesno\utilities\Layout.class
+com\rodesno\dao\PeliculasDB.class
+com\rodesno\peliculas\Main.class
+com\rodesno\dao\Conexion.class
+com\rodesno\peliculas\PeliculaItem.class
